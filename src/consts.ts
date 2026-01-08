@@ -20,7 +20,7 @@ export const SITE: Site = {
   AUTHOR: 'Vyshnav Prasad',
   POSTS_PER_PAGE: 6,
   NUM_POSTS_ON_HOMEPAGE: 3,
-  EMAIL: 'i@yshell.dev',
+  EMAIL: 'hey@yshell.dev',
   SITEURL: 'https://www.yshell.dev',
   DESCRIPTION: 'Blog and Portfolio page.',
   LOGO_MARK: "../",
@@ -37,7 +37,7 @@ export const NAV_LINKS: Link[] = [
 export const SOCIAL_LINKS_MAP: Record<string, string> = {
   'LinkedIn': 'https://www.linkedin.com/in/yshelldev/',
   'GitHub': 'https://github.com/yshelldev',
-  'Instagram': 'https://www.instagram.com/yshell.dev/',
+  'Instagram': 'https://www.instagram.com/yshelldev/',
   'DevTo': 'https://dev.to/yshell',
   'Email': 'mailto:' + SITE.EMAIL,
   'RSS': '/rss.xml',
